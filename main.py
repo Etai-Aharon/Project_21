@@ -1,4 +1,4 @@
-# first version test - push to github
+# push test - update B2 branch
 
 import http.server as SimpleHTTPServer
 import socketserver as SocketServer
